@@ -1,3 +1,10 @@
+Objectives:
+
+1. Compare different git workflows.
+2. Implement a workflow with at least one other person.
+3. Explain why workflows are useful to us. 
+
+
 #### Centralized Workflow
 
 1. Make sure that both partners have the ability to push directly to your main repository.
